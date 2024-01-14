@@ -17,25 +17,25 @@ This repo is a official implementation of "[Lightweight Multi-Dilated Transforme
 ---
 ## Results
 - **Model Complexity** (PSNR vs. FLOPs vs. Params)
-<img width="740" src="figs/Model_Complexity.png">
+<img width="730" src="figs/Model_Complexity.png">
 
 - **Quantitative evaluations** 
 <br>
-    &emsp; &emsp; &emsp; &emsp; &emsp; Evaluation on **GoPro** dataset 
-    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Evaluation on **HIDE** dataset
+    &emsp; &emsp; &emsp; &emsp; Evaluation on **GoPro** dataset 
+    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Evaluation on **HIDE** dataset
 <br>
-<img width="365" src="figs/Table_GoPro.png"> <img width="365" src="figs/Table_HIDE.png">
+<img width="360" src="figs/Table_GoPro.png"> <img width="360" src="figs/Table_HIDE.png">
 <br>
-    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; Evaluation on **RealBlur** dataset 
+    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;Evaluation on **RealBlur** dataset 
 <br>
 <img width='450' src="figs/Table_RealBlur.png">
 
 - Deblurred results on **GoPro** dataset
-<img width="740" src="figs/Result_GoPro.png">
+<img width="720" src="figs/Result_GoPro.png">
 
 - Deblurred results on **HIDE** dataset
-<img width="740" src="figs/Result_HIDE.png">
+<img width="720" src="figs/Result_HIDE.png">
 
 - Deblurred results on **RealBlur** dataset
-<img width="740" src="figs/Result_RealBlur.png">
+<img width="720" src="figs/Result_RealBlur.png">
 
